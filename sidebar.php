@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
-
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <meta name="description" content="">
-  <meta name="author" content="">
-
-  <title>Biblewiki - Backend</title>
 
   <!-- Bootstrap core CSS -->
   <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -18,9 +8,7 @@
 
 </head>
 
-<body>
-
-  <div class="d-flex" id="wrapper">
+<div class="d-flex" id="wrapper">
 
     <!-- Sidebar -->
     <div class="bg-light border-right" id="sidebar-wrapper">
@@ -91,7 +79,3 @@
       $("#wrapper").toggleClass("toggled");
     });
   </script>
-
-</body>
-
-</html>
