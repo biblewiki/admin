@@ -1,1 +1,1 @@
-# admin
+# BibleWiki AdminPanel
