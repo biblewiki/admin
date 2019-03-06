@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Password Protected Area"
-AuthUserFile /home/mwepf1gm/www/biblewiki.one/michael/.htpasswd
-Require valid-user
